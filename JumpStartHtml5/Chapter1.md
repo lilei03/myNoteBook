@@ -1,4 +1,4 @@
-* Elements and tags
+# Elements and tags
 - Every html document is made from elements, and elements are represented by tags
 - Tags mark where different parts of an element start and/or stops
 - All tags start with '<' and end with '>'
